@@ -1,0 +1,9 @@
+{
+     "name": "CS252 Project",
+     "description": "CS252 Project Made by Deepak, Rajat, Mohit",
+     "version": "0.0.1",
+     "dependencies": {
+        "express": "",
+        "socket.io": ""
+     }
+}
